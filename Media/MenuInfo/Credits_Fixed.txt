@@ -1,0 +1,46 @@
+
+colourRoleFill= 64 64 64
+colourRoleOutline= 0 0 0
+
+colourNameFill= 128 128 128
+colourNameOutline= 96 96 96
+
+colourAckFill= 80 80 80
+colourAckOutline= 27 27 27
+
+role= Lead Programmer
+name= Sophie Carroll
+
+role= Lead Artist
++	
+	
+role= Programmers
++
++
+
+role= Artists
++
++
++
+
+role= Sound Engineers
++
++
++
+
+role= Acknowledgements
+service= Audio
+name= Purple Planet
+service= Company Logo
+name= FreeLogoDesign
+service= Title Logo
+name= Scott Carroll
+service= HUD Sprites
+name= Open Game Art: Post-Apocalyse - Free Icons Game Pack 1
+
+
+
+
+
+
+  

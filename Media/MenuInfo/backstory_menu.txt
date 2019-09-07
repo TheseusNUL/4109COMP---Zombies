@@ -1,0 +1,22 @@
+fontPath= Media/Fonts/DK_Nightbird.ttf
+
+colourFill= 64 64 64 0
+colourOutline= 255 255 255 0
+border= 0 50
+alignment= CENTRE_JUSTIFIED
+
+itemText= April 6th 2052.
+itemText= The city burned. There was no escaping it.
+itemText= GenCorp, the leading chemical manufacture in the west, had been working on the project for years. They said it would extended
+itemText= human lives on average of fifty years. They were right. The old started living longer, people who were fatally ill, suddenly cured.
+itemText= It as so successful they started giving it toddlers during their routine vaccines. The X2 vaccine, they named it. Human races golden age.
+itemText= A world without sickness and disease, weere men and women were free to enjoy the world without the fear of contracting infections. Parents
+itemText= were able to watch their children, and even their grandchildren, grow old.
+itemText= But something went wrong.
+itemText= What they didn't realise was that X2 was highly unstable. Generations of mututions took it's toll. But how could they have known? By that
+itemText= point X2 was considered such a success, the government wasn't even keeping tabs on it anymore. By the time he changes were noticed the
+itemText= original scientists were long dead. And that was the problem. It wasn't affecting the living. Just the dead.
+itemText= As the bodies decayed, X2 was seeping out and spreading through the soil. Ever so slowly spreading throughout the country. With each new body
+itemText= that was buried, a more mutated version was mixed in with the rest. Until it became so unstable that it began to prolong human life even
+itemText= longer than the men in the white coats ever imagined.
+itemText= The dead started to rise.

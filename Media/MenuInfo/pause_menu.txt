@@ -1,0 +1,12 @@
+fontPath= Media/Fonts/DK_Nightbird.ttf
+
+colourFill= 64 64 64 255
+colourOutline= 0 0 0 255
+colourHiFill= 128 128 128 255
+colourHiOutline= 96 96 96 255
+border= 700 400
+alignment= CENTRE_JUSTIFIED
+
+itemText= Continue Game
+itemText= Exit To Main Menu
+itemText= Exit To Windows

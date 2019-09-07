@@ -1,0 +1,13 @@
+fontPath= Media/Fonts/DK_Nightbird.ttf
+
+colourFill= 64 64 64 255
+colourOutline= 0 0 0 255
+colourHiFill= 128 128 128 255
+colourHiOutline= 96 96 96 255
+border= 200 200
+alignment= LEFT_JUSTIFIED
+
+itemText= Play Game
+itemText= Story
+itemText= Credits
+itemText= Exit
